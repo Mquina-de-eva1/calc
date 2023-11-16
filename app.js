@@ -1,4 +1,5 @@
-let opa, opb, opr;
+let opa, opb, opr;.....
+    
 function init() {
 //Números
     let uno = document.getElementById("uno");
